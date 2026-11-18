@@ -13,8 +13,8 @@ Professor: Prof. Eng. Mestre Rafael Bispo
 
 
 ## Entregas
-- P1:
-- P2:
+- P1: https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892115
+- P2: https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892119
 - P3:
 - P4:
 - P5:
