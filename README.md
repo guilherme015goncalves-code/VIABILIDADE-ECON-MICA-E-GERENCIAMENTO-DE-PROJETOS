@@ -7,7 +7,7 @@ Professor: Prof. Eng. Mestre Rafael Bispo
 - Guilherme Gonçalves da Silva - usuário GitHub: guilherme015goncalves-code
 
 ## Problema e solução
-
+Foi identificado em um banheiro de uma residência apresentava um vazamento na parede, para resolver este problema, foi necessário fazer uma vistoria com vários acompanhamentos visando solucionar o vazamento da forma mais eficaz e com melhor solução.
 
 ## Quadro do projeto
 https://github.com/users/guilherme015goncalves-code/projects/4/views/1
