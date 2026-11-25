@@ -13,9 +13,9 @@ Foi identificado em um banheiro de uma residência apresentava um vazamento na p
 https://github.com/users/guilherme015goncalves-code/projects/4/views/1
 
 ## Entregas
-- P1: https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892115
+- P1: [https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892115](https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=304892115)
 - P2: https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892119
-- P3:
-- P4:
+- P3: 
+- P4: 
 - P5:
 - P6:
