@@ -14,8 +14,8 @@ https://github.com/users/guilherme015goncalves-code/projects/4/views/1
 
 ## Entregas
 - P1: [https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892115](https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=304892115)
-- P2: https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892119
-- P3: 
-- P4: 
-- P5:
-- P6:
+- P2: [https://github.com/users/guilherme015goncalves-code/projects/4?pane=issue&itemId=304892119](https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=304892119)
+- P3: https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=318402516
+- P4: https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=318419909
+- P5: https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=318424979
+- P6: https://github.com/users/guilherme015goncalves-code/projects/4/views/1?pane=issue&itemId=318429477
